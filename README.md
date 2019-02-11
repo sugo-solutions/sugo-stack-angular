@@ -1,2 +1,2 @@
-# sugo-stack-angular
-Angular base project
+# sugo-stack-angular-adminLTE
+Angular base project with adminLTE
